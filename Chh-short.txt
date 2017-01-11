@@ -1,0 +1,1281 @@
+1.
+
+Einleitung
+
+1.1. In-situ-Ablationsverfahren
+In-situ-Ablationsverfahren wurden in den letzten 25 Jahren als alternative
+Behandlungsmethoden für die Therapie von Tumoren und Metastasen
+parenchymatöser Organe entwickelt. Hierbei handelt es sich um Verfahren, wie die
+RFA, die LITT, die Kryotherapie, die selektive interne Radiotherapie (SIRT) oder die
+Mikrowellenablation [1]. Den Verfahren ist gemeinsam, dass über einen speziellen
+Applikator Energie in den zu abladierenden Tumor eingebracht wird, die zu einer
+lokalen Zerstörung des Tumorgewebes unter weitgehender Schonung des
+umliegenden gesunden Parenchyms führt [2-5]. Von der Vielzahl an Verfahren sind
+die hyperthermen Ablationstechniken RFA und LITT klinisch am weitesten etabliert
+[6]. Zudem liegt zu diesen Verfahren eine umfangreiche Evidenzbasis vor. Im
+engeren Sinne werden deshalb im Folgenden unter dem Begriff „In-situAblationsverfahren“ die hyperthermen Techniken RFA und LITT beschrieben.
+
+Bei den hyperthermen In-situ-Ablationsverfahren werden Tumore/ Metastasen durch
+Zufuhr thermischer Energie innerhalb des jeweiligen Organs, also in-situ zerstört. Die
+hierbei verwendeten nadelförmigen Applikatoren werden direkt in den zu
+destruierenden Tumor eingebracht (Abb. 1). Dies kann sowohl perkutan, als auch
+offen chirurgisch erfolgen [7,8]. Die im Zielgewebe entstehenden Temperaturen
+führen zur Ausbildung einer Thermonekrose des Tumorgewebes. In-situAblationsverfahren werden sowohl als Monotherapie, als auch in Kombination mit
+einer chirurgischen Resektion angewendet, um bei primär inoperabel erscheinenden
+3
+
+Metastasen noch eine vollständige Tumordestruktion erzielen zu können.
+Erfahrungen an der Leber haben gezeigt, dass beide In-situ-Ablationsverfahren
+(LITT, RFA) effektiv sind bei einer zugleich geringen Komplikationsrate [7,8]. Die
+zusätzliche Möglichkeit der minimal-invasiven Anwendung führte zu einer raschen
+Ausbreitung der In-situ-Ablationserverfahren auf andere parenchymatösen Organe
+wie z. B. der Lunge [9-11] oder auch der Schilddrüse [12-14]. Allerdings kann im
+Gegensatz zur chirurgischen Resektion bei den in-situ-Ablationsverfahren keine
+histologische Untersuchung und somit keine Sicherung der vollständigen
+Tumorzerstörung erfolgen. Der Therapieplanung kommt somit eine besondere
+Bedeutung zu.
+
+1.1.1. Technik der Laserinduzierten Thermotherapie
+Das Prinzip der LITT wurde bereits 1983 beschrieben [8]. Für die LITT werden ein
+oder mehrere Laserapplikatoren mittels Punktion in den Tumor eingebracht. Das
+durch den Applikator in das Gewebe abgestrahlte Laserlicht wird absorbiert und führt
+zu einer lokalen Temperaturerhöhung zwischen 45 und 150 °C und damit zur
+Gewebekoagulation. Hierdurch entstehen eine sofortige, sowie durch eine
+Denaturierung von Proteinen verzögerte Gewebenekrose. Bei adäquater Dosierung
+kann so eine vollständige Tumordestruktion einschließlich des in der chirurgischen
+Resektion geforderten Sicherheitssaumes erzielt werden.
+Für die LITT werden optische Fasern eingesetzt, die geeignet sind, eine hohe
+Laserenergie in die Zielregion einzubringen. Wegen ihrer großen optischen
+Eindringtiefe werden Laser des nahen Infrarotlichtes verwendet (Wellenlänge 800 –
+1200 nm), wobei klinisch überwiegend Nd:YAG-Laser (Neodym-dotierter YttriumAluminium-Granat-Laser) mit einer Wellenlänge von 1064 nm benutzt werden. Je
+nach Ausdehnung des Tumors kann eine Behandlung durch Einfachapplikation oder
+auch durch simultane bzw. fraktionierte Mehrfachapplikation erfolgen. Es stehen
+verschiedene Applikatortypen zur Verfügung, die für unterschiedliche
+Leistungsbereiche und Tumorgrößen optimiert sind [5,15-17].
+Auf die Ausbreitung des Laserlichtes im Gewebe nehmen die Wellenlänge des
+Laserlichtes, die Art und Anzahl der Applikatoren und die Dauer der Laserexposition
+Einfluss. Im Gegensatz zu diesen externen, vom Anwender beeinflussbaren,
+Faktoren stehen die spezifischen optischen Parameter des laserbehandelten
+Gewebes (Absorptionskoeffizient, Streukoeffizient, Anisotropiefaktor, optische
+Eindringtiefe), welche eine wesentliche Rolle in der Laser-Gewebe-Interaktion
+spielen und das Läsionsvolumen im Gewebe bestimmen [18].
+
+1.1.2. Technik der Radiofrequenzablation (RFA)
+Dem Prinzip der RFA liegt die interstitielle Tumordestruktion durch hochfrequenten
+Wechselstrom zugrunde. Eine oder mehrere Nadelelektroden (Applikatoren) werden
+in den Tumor eingebracht. Die Applikation kann je nach Tumorlokalisation, Anzahl
+4
+
+der Tumore, Tumorgröße, anatomischer Situation und weiterer Faktoren perkutan
+oder offen chirurgisch eingebracht werden. Hochfrequenter Wechselstrom von 375
+bis 480 kHz wird über einen Generator eingeleitet und führt über Ionenbewegung zu
+einer Erhitzung des Zielgewebes. Eine Gewebeerhitzung von 50 - 55 °C über 4 - 6
+Minuten führt durch eine irreversible Proteinkoagulation zum Zelltod. Ab 60 °C wird
+durch eine im Gewebe entstehende Koagulationsnekrose ein sofortiger Zelltod
+erzielt. Bei Temperaturen von mehr als 100 °C wird Gewebe vaporisiert und
+karbonisiert [19-22].
+Die RFA wurde initial als monopolares System entwickelt. Hierbei wird ein
+hochfrequentes Spannungsfeld zwischen der punktförmigen Fläche des Applikators
+und einer großflächigen, am Patienten angebrachten Neutralelektrode hergestellt.
+Dieses Design führt zu einer hohen Stromdichte in Umgebung des Applikators und
+damit zur lokalen Gewebeerhitzung. Das genaue Ausmaß der Thermodestruktion ist
+von einer Vielzahl von Faktoren, wie z.B. Gewebeleitfähigkeit, technischem Design
+von Generator, Applikator und Neutralelektrode, umgebenden Organen und
+Strukturen abhängig und schwer vorherzusagen [23,24]. Der unkontrollierte
+Stromfluss kann zudem zu thermischen Schäden an benachbarten Organstrukturen,
+zu Hautverbrennungen, verminderter Effektivität und einer daraus resultierenden
+erhöhten Lokalrezidivrate führen [25].
+Eine Weiterentwicklung stellt die bipolare RFA dar, welche die o.g. Probleme der
+monopolaren Technik vermeidet. Bipolare RFA-Applikatoren tragen jeweils eine
+voneinander isolierte positive und negative Elektrode, zwischen denen der
+Stromfluss stattfindet (Abb. 2). Der Energieeintrag ist somit über eine kurze Distanz
+gerichtet und kann genauer kontrolliert werden [26,27].
+5
+
+Während die bipolare Applikation typische Probleme der monopolaren RFA
+vermeidet, sind für die klinische Anwendung häufig größere Ablationsvolumina
+erforderlich. Die Technik wurde daher zur Effektivitätssteigerung als multipolare RFA
+weiterentwickelt. Bei der multipolaren RFA werden mehrere bipolare Applikatoren
+zeitgleich in oder nahe um den Tumor eingebracht (Abbildung 2). Klinisch werden
+meist drei bipolare Applikatoren verwendet, so dass für die Ablation sechs einzelne
+Elektroden zur Verfügung stehen. Mit einem speziell für diese Technik entwickelten
+Generator werden die Elektroden alternierend untereinander verschaltet. Hierbei
+stehen 15 verschiedene Möglichkeiten zur Verfügung, welche vom Generator
+automatisch nach der Gewebeimpedanz und damit nach dem Grad der
+Austrocknung und Karbonisation des Gewebes dynamisch ausgewählt werden.
+Durch diese Technik wird die Koagulationsnekrose entsprechend der Bio-HeatGleichung vergrößert und damit eine höhere Effektivität erreicht. Die einzelnen, sich
+zwischen den Elektrodenpaaren entwickelnden Koagulationsareale konfluieren zu
+einer Thermonekrose, die einen Durchmesser von bis zu 90 mm bei einem Volumen
+von bis zu 52 cm3 erreichen kann [28-30].
+
+1.2. Klinische Einsatzgebiete von In-situ-Ablationsverfahren
+Lebermetastasen
+Lebermetastasen kolorektaler Karzinome gehören zu den häufigsten Lebertumoren.
+Die hepatische Metastasierung beeinflusst hierbei wesentlich die Prognose der
+Patienten. Zum Zeitpunkt der Diagnosestellung eines kolorektalen Karzinoms weisen
+etwa 15 – 25 % der Patienten synchrone Lebermetastasen auf [31-33]. Nach
+primärer Operation mit kurativer Intention liegt die Rate metachroner
+Lebermetastasen bei ca. 20 - 50 % [34-36]. Bei ca. 25 % der Patienten mit
+kolorektalen Tumoren im fortgeschrittenen Stadium ist die Leber der einzige
+Metastasierungsort [1,37,38]. Unbehandelt liegt die 3-Jahres-Überlebensrate beim
+Vorliegen hepatischer Metastasen bei 12 % [31].
+Bislang ist die chirurgische Resektion von Lebermetastasen das einzige
+Therapieverfahren mit gesicherter kurativer Zielsetzung. Die Leberteilresektion hat je
+nach Resektionsausmaß und Erfahrung des operierenden Zentrums eine
+Operationsletalität von 3 - 5 % bei einer Fünfjahresüberlebensrate von 20 - 40 %
+[31,39-41]. Unter Berücksichtigung prognoserelevanter Faktoren kommen jedoch nur
+6 - 15 % der Patienten für eine chirurgische Resektion in Betracht [40]. Nach
+potentiell kurativer Leberresektion muss zusätzlich in bis zu 70 % der Patienten mit
+einem Rezidiv in der Restleber gerechnet werden [39]. Für eine Re-Resektion
+kommen weniger als 30 % der Patienten in Betracht.
+Hieraus ergibt sich für die Mehrzahl der Patienten mit Lebermetastasen kolorektalen
+Ursprungs die Forderung nach alternativen, parenchymsparenden und
+wiederholbaren Behandlungsstrategien. In den letzten 25 Jahren wurden hierbei vor
+6
+
+allem die In-situ-Ablationsverfahren als alternative Behandlungsmethoden für die
+Therapie von Lebermetastasen entwickelt. Insbesondere bei der Behandlung von
+Lebermetastasen
+haben die Laserinduzierte Thermotherapie (LITT) und die
+Radiofrequenzablation (RFA) besondere Verbreitung in der klinischen Anwendung
+gefunden [42,43].
+Lungenmetastasen
+Neben der Leber ist vor allem die Lunge Ort einer Metastasierung. Laut
+Sektionsstatistik haben Patienten mit einem malignen Grundleiden zum Zeitpunkt
+ihres Todes zu 30 % Lungenmetastasen. Etwa 15 % aller Patienten mit einem
+kolorektalen Karzinom entwickeln Lungenmetastasen im Anschluss an die primäre
+Tumortherapie. Therapeutischer Goldstandard bei der Behandlung von
+Primärtumoren als auch von Lungenmetastasen ist die chirurgische Resektion.
+Wegen Anzahl, Dynamik oder Lage der Metastasen können nur etwa ein Drittel der
+Patienten mit Lungenmetastasen einer chirurgischen Resektion zugeführt werden mit
+einer 5-Jahresüberlebensrate von nur 15 – 40 % [44-47]. Bei über 70 % der
+Patienten ist eine kurative Resektion somit nicht möglich. In etwa 50 % der Fälle
+kommt es trotz radikaler Operation zu einem pulmonalen Tumorprogress. Dies
+machte die Etablierung alternativer minimal-invasiver Behandlungsoptionen
+notwendig, wie sie beispielsweise in Form der In-situ-Ablationsverfahren als RFA
+oder LITT eingesetzt werden. Während diese Verfahren als Alternative zur
+chirurgischen Resektion bei der Behandlung von Lebermetastasen kolorektaler
+Karzinome bereits regelmäßig angewendet werden, kommen sie bei der Therapie
+von primären Lungentumoren erst seit relativ kurzer Zeit zum Einsatz [9-11,48].
+Vorteile der In-situ-Ablationsverfahren sind der minmal-invasive Zugangsweg, die
+Schonung gesunden Parenchyms sowie die wiederholte Anwendbarkeit.
+Schilddrüsentumore
+Veränderungen der Schilddrüse gehören infolge alimentären Jodmangels nach wie
+vor zu den häufigsten Erkrankungen weltweit [49,50]. Etwa in einem Drittel dieser
+Fälle weist die Schilddrüse allein hyperplastische Veränderungen auf, während die
+restlichen zwei Drittel der Betroffenen singuläre oder diffuse Noduli tragen.
+Zunehmendes Alter, weibliches Geschlecht sowie eine vorherige Radiatio im KopfHals-Bereich scheinen neben Jodmangel das Risiko für Schilddrüsenknoten zu
+erhöhen [51-53]. Bei den in Behandlung befindlichen Patienten wird in über 60 %
+der Fälle eine Therapieindikation gestellt, die allein in Deutschland zu einem
+Gesamtvolumen von 100.000 operativen Schilddrüseneingriffen pro Jahr führt, von
+denen 65 % bei nodulären Veränderungen durchgeführt werden [54]. Die Chirurgie
+und die Radiojod-Therapie sind die etablierten therapeutischen Verfahren in der
+Behandlung funktioneller Erkrankungen sowie gutartiger und maligner Läsionen der
+Schilddrüse [55-58]. Allerdings beinhaltet die Operation peri- und postoperative
+Risiken wie die Recurrensparese und die Hypokalzämie [59] und entspricht aus
+7
+
+kosmetischen Gründen nicht in jedem Fall dem Patientenwunsch. Weitere
+Komplikationen sind die Strahlenthyreoiditis, eine chronische Speicheldrüsenentzündungen sowie einer substitutionspflichtige Hypothyreose in 10 – 20 %
+sowie hohen Rezidivraten mit erneuter Therapieindikation in bis zu 20 % der Fälle
+[60,61].
+Angesichts der hohen Patientenzahl mit therapiebedürftigem Krankheitsbild ist eine
+weitere, schonende Therapieoption wünschenswert. Die In-situ-Ablationsverfahren
+(RFA, LITT) sind Gegenstand derzeitiger Untersuchungen als alternative
+Therapieoptionen bei der Behandlung benigner und maligner Schilddrüsenläsionen
+[12-14]. Dieser Ansatz wurde bereits weltweit von einigen Arbeitsgruppen verfolgt
+und in kleineren klinischen Studien zur lokalen Therapie von verschiedenen
+Schilddrüsenveränderungen bis hin zu Malignomen [57,58,62-65] eingesetzt. Hierbei
+fehlen jedoch bislang ausreichende Daten zur Dosimetrie der RFA und LITT an der
+Schilddrüse, deren Kenntnis jedoch wesentliche Voraussetzung für einen sicheren
+und reproduzierbaren Einsatz der In-situ-Ablationsverfahren an der Schilddrüse ist.
+
+1.3. Problemstellung und Zielsetzung
+Sekundär bösartige Neubildungen parenchymatöser Organe infolge einer
+Metastasierung stellen eine der häufigsten onkologischen Erkrankungen dar und
+beeinflussen wesentlich die Prognose der betroffenen Patienten. Bislang ist die
+chirurgische
+Resektion
+von
+parenchymatösen
+Tumoren
+das
+einzige
+Therapieverfahren mit gesicherter kurativer Zielsetzung. Zum Zeitpunkt der
+Diagnosestellung kann jedoch aus onkologischen und operationstechnischen
+Gründen nur eine Minderheit der Patienten einer chirurgischen Therapie zugeführt
+werden. Zusätzliche Probleme stellen die vom Ausmaß der Parenchymverluste
+abhängige Komplikationsrate der chirurgischen Therapie sowie das Risiko eines
+Rezidivs nach erfolgter Resektion dar. Um diesen Problemen entgegenzuwirken
+wurden in den letzten Jahren In-situ-Ablationsverfahren als Alternative zur
+chirurgischen Resektion entwickelt, welche perkutan oder offen chirurgisch zur
+Anwendung kommen können. Hierbei haben vor allem die RFA und die LITT
+klinische Verbreitung gefunden. Erfahrungen an der Leber haben gezeigt, dass beide
+In-situ-Ablationsverfahren effektiv sind bei einer zugleich geringen Komplikationsrate.
+Diese lokalen Verfahren bieten die Möglichkeit die Tumore zu zerstören, ohne das
+umliegende gesunde Parenchym wesentlich zu beeinflussen und können im Falle
+eines Rezidivs wiederholt eingesetzt werden. Die zusätzliche Möglichkeit der
+minimal-invasiven Anwendung führte zu einer raschen Ausbreitung der In-situAblationsverfahren auf andere parenchymatöse Organe wie Lunge, Schilddrüse,
+Niere, Prostata oder Mamma. Limitiert wird der sichere klinische Einsatz der In-situAblation bislang vorwiegend durch technische und onkologische Kriterien. Hierzu
+zählen vor allem:
+8
+
+•
+
+Die Kenntnis der Lichtausbreitung im Gewebe, um eine Vorhersage über das
+Ausmaß der entstehenden Thermoläsionen zu treffen und die geeigneten
+Applikationsparameter für eine vollständige Tumorzerstörung im Vorfeld der
+Behandlung festlegen zu können.
+
+•
+
+Die sichere Induktion ausreichend großer Läsionen mit vollständiger
+intraläsionärer Zerstörung des Zielgewebes unter Schonung der umliegenden
+Strukturen.
+
+Ziel der vorliegenden Arbeit war es daher, den genannten Limitationen des klinischen
+Einsatzes der LITT und RFA durch die experimentelle und klinische Evaluation
+neuer Applikationsmodi und Planungsmöglichkeiten an der Leber, Lunge und
+Schilddrüse entgegen zu wirken und damit das Spektrum der Therapiemöglichkeiten
+für eine sichere und effektive Behandlung auszuweiten. Spezifische Ziele waren
+hierbei:
+
+•
+
+Die Bestimmung der optischen Gewebeparameter für die LITT, um Kenntnisse
+der Lichtausbreitung im Zielgewebe zu gewinnen.
+
+•
+
+Die Untersuchung des Einflusses einer Unterbrechung der Leberperfusion auf
+die LITT, um effektivitätshemmende Kühleffekten zu reduzieren und die LITT
+zu optimieren
+
+•
+
+Die Evaluation einer Dosis-Wirkungs-Beziehung für die LITT und RFA an der
+Lunge und Schilddrüse, um so den Leistungsbereich für die Induktion
+möglichst großer Läsionen unter Schonung umliegender Strukturen zu
+bestimmen.
+
+9
+
+2.
+
+Eigene Arbeiten
+
+Die hier vorgestellte Arbeit basiert auf folgenden Originalpublikationen. Entsprechend
+o. g. spezifischer Zielsetzungen sollte hierbei in der ersten Arbeit die Bestimmung der
+optischen Gewebeparameter von Lebermetastasengewebe erfolgen, um Kenntnisse
+der Lichtausbreitung im Zielgewebe zu gewinnen. Im Rahmen der zweiten Arbeit galt
+es, den Einfluss einer Unterbrechung der Leberperfusion auf die LITT in Hinblick auf
+eine höhere Effektivität bei der Behandlung von Lebertumoren zu untersuchen. In
+den übrigen vier Arbeiten sollte eine Dosis-Wirkungs-Beziehung für die LITT und
+RFA an der Lunge und der Schilddrüse evaluiert werden, um den optimalen
+Leistungsbereich der In-situ-Ablationsverfahren zu bestimmen.
+10
+
+Ein Problem aller thermischen Laseranwendungen ist die fehlende Therapiekontrolle
+während der Ablation [66,67]. Für eine effektive und sichere Anwendung von
+Laserlicht ist die Kenntnis der Lichtausbreitung im Gewebe wichtige Voraussetzung.
+Diese Lichtausbreitung wird im Wesentlichen durch die folgenden, individuell stark
+variierenden
+optischen
+Parameter
+bestimmt:
+Absorptionskoeffizient,
+Streuungskoeffizient, Anisotropiefaktor, Eindringtiefe [68,69].
+Experimentell sollte das optische Verhalten von gesundem Kolongewebe,
+kolorektalen Karzinomen und deren hepatischen Metastasen im nativen und
+koagulierten Zustand verglichen werden, um den Einfluss der karzinomatösen
+Entartung, Metastasierung und thermischen Koagulation auf die optischen Parameter
+für die LITT zu überprüfen.
+Hierzu wurde von Patienten mit einem synchron hepatisch metastasierten
+Kolonkarzinom insgesamt 90 Gewebeproben gewonnen. Dabei handelte es sich um
+gesundes Kolon- (n=30), Kolonkarzinom- (n=30) sowie Lebermetastasengewebe
+(n=30). Die Messungen der optischen Parameter der Gewebeproben erfolgte nach
+dem Doppel-Ulbrichtkugel-Prinzip im nativen Zustand und nach Thermokoagulation
+im Wellenlängenbereich von 800 bis 1100 nm in 10 nm-Schritten und wurden mittels
+der inversen Monte-Carlo-Stimulation ausgewertet.
+Die höchste optische Eindringtiefe für alle Gewebearten wurde am Ende des
+Lichtspektrums erzielt. Bei 1064 nm lag die größte optische Eindringtiefe mit 4,13
+mm (gesundes Kolon), 7,47 mm (Kolonkarzinomgewebe) und 4,08 mm
+(Lebermetastasen), wobei die Werte nach Thermokoagulation signifikant abnahmen.
+Beim Vergleich gesundes Kolon versus Kolonkarzinom war der Absorptions- und
+Streukoeffizient im Tumorgewebe stets signifikant niedriger. Hieraus resultierte eine
+höhere optische Eindringtiefe des Laserlichtes in Kolonkarzinomgewebe als in
+gesundes Kolon (p < 0,05). Im direkten Vergleich zwischen Primärtumor und
+Lebermetastase zeigte sich keine Übereinstimmung der optischen Parameter. Im
+nativen Zustand war der Streukoeffizient des Kolonkarzinomgewebes niedriger (p <
+0,05), der Anisotropiefaktor und die optische Eindringtiefe höher als im
+Lebermetastasengewebe (p < 0,05). Der Absorptionskoeffizient zeigte keinen
+11
+
+statistischen Unterschied. Durch die
+nachgewiesenen Unterschiede nivelliert.
+
+Gewebekoagulation
+
+wurden
+
+die
+
+nativ
+
+Mit dieser Arbeit konnte erstmalig gezeigt werden, dass es durch die Metastasierung
+zu einer Veränderung des optischen Verhaltens des Gewebes kommt. In
+Tumorgewebe wurde eine höhere optische Eindringtiefe erzielt, was einen
+therapeutischen Vorteil durch ein potentiell größeres Behandlungsvolumen darstellt.
+Trotz gleicher Histologie zeigten sich keine Übereinstimmungen der optischen
+Parameter von Primärtumor und Lebermetastase, was auf eine Modifikation durch
+die Metastasierung hindeutet. Infolge der thermischen Gewebekoagulation kam es
+zu einer Veränderung der optischen Parameter von gesunden Kolon-,
+Kolonkarzinom- und Lebermetastasengewebe. Die hieraus resultierende niedrigere
+optische Eindringtiefe macht deutlich, dass für eine effektive und sichere Dosimetrie
+der LITT eine Anpassung der Bestrahlungsparameter mit zunehmender
+Applikationsdauer notwendig ist.
+
+12
+
+Zur Behandlung auch größer Lebermetastasen wurde eine Optimierung der LITT
+angestrebt. Tierexperimentelle Arbeiten der eigenen Arbeitsgruppe konnten zeigen,
+dass eine Perfusionsunterbrechung während der LITT eine Effektivitätssteigerung im
+Hinblick auf die Größe des erzielten Koagulationsvolumens mit sich bringt [70,71].
+In der folgenden klinischen Arbeit sollte die LITT in Kombination mit einer kompletten
+oder selektiven Perfusionsunterbrechung hinsichtlich ihrer Effektivität im Vergleich
+zur normalen Perfusion bei Patienten mit irresektablen hepatischen Metastasen
+untersucht werden.
+Die laserinduzierte Thermotherapie wurde über zwei verschiedene Zugangswege
+durchgeführt. In Abhängigkeit der Indikationsstellung, Metastasengröße und
+Metastasenlokalisation wurde die LITT über einen perkutanen oder offenen Zugang
+durchgeführt. Zur Wirkungsverstärkung der LITT wurden zwei Verfahren zur
+Perfusionsunterbrechung eingesetzt: 1. die temporäre arterielle Gefäßembolisation
+mit Mikrosphären (DSM) oder 2. die komplette Perfusionsunterbrechung durch ein
+Pringle-Manöver. Das Therapiemonitoring im Rahmen einer perkutanen Behandlung
+erfolgte mittels MRT, für die offen durchgeführten Laserbehandlungen bediente man
+sich der intraoperativen Ultraschallkontrolle. Die Läsionen wurden prä- und
+postinterventionell in ihrem maximalen Durchmesser ausgemessen und die Volumina
+berechnet.
+Bei 56 Patienten wurden 104 Metastasen mit insgesamt 124 Laserapplikationen
+behandelt. Bei 25 Metastasen (14 Patienten) erfolgte die LITT ohne
+Perfusionsunterbrechung, bei 37 Metastasen (19 Patienten) erfolgte die LITT
+perkutan in Kombination mit einer Gefäßembolisation durch Mikrosphären (DSM) und
+bei 42 Metastasen (23 Patienten) wurde die LITT per Laparotomie mit einem PringleManöver durchgeführt. Die thermischen Läsionsvolumina waren in allen drei
+Gruppen signifikant höher als die Ausgangsvolumina. Der mittlere Volumenzuwachs
+betrug ohne Perfusionsunterbrechung 15,5 ± 9 cm³, bei der Gefäßembolisation
+(DSM) 55,9 ± 22 cm³ und beim Pringle-Manöver 63,6 ± 27 cm³ (p < 0,05).
+22
+
+In dieser Arbeit konnte erstmals klinisch gezeigt werden, dass die LITT in
+Kombination mit einer prätherapeutischen Perfusionsunterbrechung mittels
+Gefäßembolisation oder Pringle-Manöver zu einer Erhöhung der Läsionsvolumina
+und verbesserten lokalen Tumorkontrolle führt. Bei gleicher Komplikationsrate im
+Vergleich zur LITT-Behandlung ohne Unterbrechung der Leberperfusion können auf
+diesem Wege mit weniger Applikationen bedeutend größere Thermoläsionen erzielt
+werden.
+
+23
+
+2.3. Untersuchungen zur Dosimetrie und Therapieplanung bei der
+laserinduzierten Thermotherapie von Lungentumoren
+
+Das Bronchialkarzinom ist eine der weltweit häufigsten Tumorentitäten. Ferner ist die
+Lunge neben der Leber zweithäufigster Metastasierungsort mit einer
+Metastasierungsrate von 20 bis 54 % für Karzinome im Allgemeinen [72,73].
+Therapeutischer Goldstandard bei der Behandlung von Primärtumoren als auch von
+Lungenmetastasen ist die chirurgische Resektion. Bei einem großen Teil der
+Patienten verbietet sich aufgrund eines fortgeschrittenen Tumorstadiums oder
+Komorbiditäten eine Operation. Diesen Patienten konnten lange keine
+lokaltherapeutische Alternative angeboten werden, die bei wesentlich geringerer
+Invasivität einer zur Resektion vergleichbare Effektivität ermöglichte. Dies machte die
+Etablierung alternativer minimal-invasiver Behandlungsoptionen notwendig, wie sie
+beispielsweise in Form der In-situ-Ablationsverfahren als Radiofrequenzablation
+(RFA) oder als Laserinduzierte Thermotherapie (LITT) eingesetzt wird. Während
+diese Verfahren als Alternative zur chirurgischen Resektion bei der Behandlung von
+Lebermetastasen kolorektaler Karzinome bereits regelmäßig angewendet werden,
+kommen sie bei der Therapie von Lungentumoren erst seit relativ kurzer Zeit zum
+Einsatz [9-11,48]. Die Erfahrungen an der Leber belegen, daß thermische In-situAblationsverfahren effektiv und komplikationsarm durchgeführt werden können
+[74,75]. Die geringe Invasivität und die Schonung von gesundem Parenchym
+machen die In-situ-Ablation daher auch für die Therapie von primären und
+sekundären Lungentumoren interessant. Aufgrund des gewebespezifischen Aufbaus
+der Lunge mit den hohen Anteilen luftgefüllter Hohlräume wurde für die LITT im
+Vergleich zur RFA ein günstigerer Energietransfer in der Lunge angenommen,
+weswegen die LITT als zu untersuchendes Verfahren ausgewählt wurde. Mehrere
+Studien belegten bereits die grundsätzliche technische Machbarkeit der LITT an der
+Lunge [9,74-76]. Allerdings fehlten bislang klinische oder experimentelle Daten, die
+den energieabhängigen Effekt des Laserlichtes auf das Lungengewebe untersuchten
+und im Sinne einer Dosis-Wirkbeziehung evaluierten. Diese Daten sind jedoch
+Voraussetzung für eine sichere und effektive Anwendung der LITT mit Induktion
+ausreichend großer Läsionen. Ziel dieser experimentellen Studie war es, anhand von
+Schweinelungen die Größe von laserinduzierten Thermoläsionen in Abhängigkeit der
+verwendeten Applikationsdauer- und -leistung zu untersuchen, um so den
+32
+
+Leistungsbereich für die Induktion möglichst großer Läsionen ohne Induktion
+ausgedehnter Karbonisationen zu bestimmen. Dabei wurden ein offen-chirurgisches
+sowie ein perkutan-interventionell einzusetzendes Punktionssystem evaluiert.
+An insgesamt 27 Lungenfrischpräparaten von Hausschweinen wurden pro
+Lungenflügel (n=54) jeweils 2 thermische Läsionen (n=108) mittels eines Nd:YAG
+laser (1064 nm) induziert. Die LITT erfolgte hierbei über ein perkutanes (Gruppe I)
+sowie ein offenes, intraoperatives Punktionssystem (Gruppe II) in einem
+Leistungsbereich der Laserenergie zwischen 20 – 32 Watt sowie eine
+Applikationsdauer zwischen 600 – 1200 Sekunden. Die Läsionen wurden
+anschließend in Längs- und Querrichtung vermessen und das Volumen anhand der
+Formel für ein Ellipsoid berechnet.
+Die Läsionsvolumina zeigten in beiden Gruppen bei zunehmender applizierter
+Laserleistung einen plateauförmigen Kurvenverlauf über 25 Watt, wobei das
+perkutane Punktionssystem bei einer Applikationsdauer von 10 Minuten signifikant
+größere Läsionsvolumina induzierte, als das offene System. Eine längere
+Applikationsdauer war bei Verwendung des perkutanen Systems aufgrund einer
+thermischen Instabilität des Applikators nicht möglich. Außerdem traten in Gruppe I
+ausgedehnte Karbonisationen bereits ab 22 Watt auf, sodass bei einer Leistung von
+20 Watt und einer Applikationsdauer von 10 Minuten das Läsionsvolumen nur 4,74
+cm3 betrug. Das offene System erreichte unter Berücksichtigung ausgedehnter
+Karbonisationen ab 28 Watt sein größtes Läsionsvolumen (10,28 cm3) bei 25 Watt
+mit einer Applikationsdauer von 20 Minuten.
+Mit dieser Arbeit konnten erstmals Daten für eine Dosis-Wirkungs-Beziehung für die
+LITT an Lungengewebe für zwei klinisch relevante Punktionssysteme gewonnen
+werden. Sowohl das perkutane als auch das offene, intraoperative
+Applikationssystem der LITT induziert reproduzierbare, klinisch relevante Läsionen in
+der Lunge. Für die klinische Anwendung bedarf es jedoch weiterer Untersuchungen,
+insbesondere der Einfluss von Perfusion und Ventilation auf die LITT während einer
+in-vivo-Anwendung sollte hierbei evaluiert werden.
+
+33
+
+2.4. Untersuchungen zur Dosimetrie und Therapieplanung bei der
+laserinduzierten Thermotherapie von Schilddrüsentumoren
+
+
+Knotige Veränderungen der Schilddrüse gehören nach wie vor zu den häufigsten
+Erkrankungen in der klinischen Praxis [49,50]. Die chirurgische Resektion und die
+Radiojodtherapie sind die etablierten Behandlungsverfahren zur Therapie
+funktioneller Erkrankungen sowie gutartiger und bösartiger Läsionen der Schilddrüse
+[55-58]. Neben diesen beiden etablierten Verfahren sind die In-situAblationsverfahren (RFA, LITT) Gegenstand derzeitiger Untersuchungen als
+alternative Therapieoptionen bei der Behandlung benigner und maligner
+Schilddrüsenläsionen [12-14]. Dieser Ansatz wurde bereits weltweit von einigen
+Arbeitsgruppen verfolgt und in kleineren klinischen Pilotstudien zur lokalen Therapie
+von verschiedenen Schilddrüsenveränderungen bis hin zu Malignomen [57,58,62-65]
+eingesetzt. Die in diesen Studien eingesetzten Bestrahlungsparameter variierten
+aufgrund der bislang fehlenden Daten zur Dosis-Wirkbeziehung des Verfahrens
+erheblich. Weiterhin wurden die Effekte der Therapie nicht hinsichtlich der erreichten
+Läsionsgrößen und des histologischen Therapieeffektes ausgewertet, sondern nur
+die potentiell möglichen Volumenreduktionen verschiedener Noduli [65] vermessen.
+Voraussetzungen für einen klinischen, sicheren Einsatz der LITT an der Schilddrüse
+sind der Nachweis einer definitiven Gewebsdestruktion, sowie die Kenntnis der
+notwendigen Leistungsparameter für eine ausreichend große Koagulationszone ohne
+Gefährdung der umliegenden thermosensitiven Strukturen wie Nebenschilddrüsen
+und Nervus laryngeus recurrens.
+Da Daten für einen reproduzierbaren Einsatz der LITT an der Schilddrüse bisher
+nicht veröffentlicht worden sind, war es Ziel der vorliegenden Studie, eine DosisWirkbeziehung für die LITT von Schilddrüsengewebe zu erstellen, um erstmals
+grundlegende Parameter für eine spätere klinische Anwendung zu ermitteln.
+Weiterhin sollte die Wirksamkeit der LITT histologisch evaluiert werden, da bisher
+keine histologischen Effekte der LITT in der Schilddrüse untersucht wurden.
+Die Applikationen erfolgten mit einem Nd:YAG-Laser (1064 nm) sowohl ex- als auch
+in-vivo an Schilddrüsen von Hausschweinen. Im Laserleistungsbereich von 10 bis
+20 Watt wurden über eine Applikationszeit von 300 Sekunden die thermischen
+42
+
+Läsionen induziert. Während der Applikation erfolgte die kontinuierliche
+Temperaturmessung in 5 und 10 mm Abstand vom Applikator. Die entstandenen
+Thermoläsionen wurden longitudinal und transversal vermessen, das
+Läsionsvolumen berechnet und histologisch aufgearbeitet.
+Die maximal induzierbaren Läsionsvolumina lagen zwischen 0,74 (±0,18) cm3 bei
+10 W Leistung und 3,80 (±0,41) cm3 bei 20 W Leistung. Die Maximaltemperaturen
+nach 300 s lagen zwischen 72,9 (±2,9) °C (10 W) und 112,9 (±9,2) °C (20 W) in
+5 mm Entfernung bzw. zwischen 49,5 (±2,2) °C (10W) und 73,2 (±6,7) °C (20W) in
+10 mm Entfernung vom Applikator. Die HE-Färbungen zeigten keine spezifischen
+postinterventionellen Veränderungen, während mittels der NADPH-Färbung ein
+Vitalitätsverlust des Parenchyms im Läsionsbereich nachgewiesen werden konnte.
+Die vorliegende Arbeit beschreibt erstmalig die Grundlagen der LITT an der
+Schilddrüse. Es gelang mit der LITT reproduzierbare Thermoläsionen von relevanter
+Größe in angemessener Applikationszeit in der Schilddrüse zu induzieren. Eine
+Anwendung in der klinischen Praxis scheint auf Grundlage der erhobenen Daten
+durchführbar zu sein. Jedoch fehlen derzeit die Ergebnisse aus umfangreicheren
+Großtierversuchen hinsichtlich der Dosis-Wirk-Beziehungen am perfundierten Organ
+sowie die Kenntnis der optischen Parameter des Gewebes, die zusammen eine
+optimale Bestrahlungsplanung ermöglichen können.
+
+43
+
+2.5. Untersuchungen zur Dosimetrie und Therapieplanung bei der
+Radiofrequenzablation von Schilddrüsentumoren
+
+Neben der LITT kam in den letzten Jahren zunehmend die RFA als In-situAblationsverfahren bei der Behandlung parenchymatöser Tumoren, so auch an der
+Schilddrüse, zur Anwendung. Eine Reihe klinischer Studien konnten bereits die
+grundsätzliche technische Machbarkeit der RFA an der Schilddrüse zeigen
+[12,13,77]. Allerdings gab es bislang keine experimentellen Daten, welche die
+energiebezogenen Auswirkungen der RF-Ablation auf Schilddrüsengewebe
+beschrieben und in Hinblick auf eine Dosis-Wirkungsbeziehung bewerteten. Diese
+Daten sind jedoch die Voraussetzung für eine sichere und effektive Anwendung der
+RFA mit der Induktion ausreichend großer Läsionen unter Schonung thermosensibler
+Strukturen wie den N. recurrens sowie der Nebenschilddrüsen.
+Ziel dieser Arbeit war es daher, erstmalig die Größe induzierbarer RF-Läsionen in
+Schilddrüsengewebe in Relation zur Applikationsdauer und –leistung zu
+untersuchen, um den optimalen Leistungsbereich der RFA an der Schilddrüse zu
+bestimmen.
+Es erfolgte eine bipolare Radiofrequenzablation sowohl ex- als auch in-vivo an
+Schilddrüsen von Hausschweinen in einem Leistungsbereich von 10 – 20 Watt.
+Während der Applikation erfolgte die kontinuierliche Temperaturmessung in 5 und
+10 mm Abstand vom Applikator. Die entstandenen Thermoläsionen wurden
+longitudinal und transversal vermessen und das Läsionsvolumen berechnet. Ferner
+wurden enzymhistologische Analysen des abladierten Schilddrüsengewebes zur
+Evaluation irreversibler Zellschädigungen durchgeführt.
+Die induzierbaren Läsionsvolumina lagen zwischen 0.91 ± 0.71 cm3 bei 20 W und
+2.80 ± 0.85 cm3 bei 14 W. Die Maximaltemperaturen nach Ablation lagen zwischen
+30.0 ± 8.6 °C und 53.5 ± 8.6 °C in 5 mm Entfernung und zwischen 44.0 ± 9.7 °C und
+61.6 ±13.9 °C in 10 mm Entfernung vom Applikator. Die enzymhistologischen
+Untersuchungen zeigten einen vollständigen Verlust der NADPH-Dehydrogenase als
+Zeichen einer irreversiblen Zellschädigung im Läsionsbereich.
+Zusammenfassend zeigte unsere Studie erstmalig eine Dosis-Wirkungsbeziehung für
+die RFA an der Schilddrüse. Mögliche Energiemengen und Applikationszeiten
+52
+
+konnten für eine sichere thermische Schädigung von Schilddrüsengewebe bestimmt
+werden. In der experimentellen Situation zeigten unsere Messungen eine gute
+Reproduzierbarkeit, wobei jedoch weitere Einflussfaktoren bei einer klinischen
+Anwendung zu erwarten sind. Insbesondere haben bei einer in-vivo Ablation
+Kühleffekte infolge der Organperfusion einen erheblichen Einfluss auf die
+induzierbaren Läsionsvolumina, wie man aus Daten an der Leber weiß [26]. Dieser
+Einflussfaktor muss durch den Vergleich der ex-vivo mit den noch zu erhebenden invivo Daten weiter evaluiert werden. Eine Anwendung in der klinischen Praxis scheint
+auf der Grundlage unsere Daten prinzipiell möglich zu sein, jedoch fehlen bislang
+weitere in-vivo Daten in Bezug auf eine Dosis-Wirkungsbeziehung in perfundierten
+Organen, die für eine sichere und optimale Therapie erforderlich sind.
+
+53
+
+2.6. Experimentelle Untersuchung der Effektivität der RFA im
+Vergleich
+
+zur
+
+LITT
+
+bei
+
+der
+
+Behandlung
+
+von
+
+Schilddrüsentumoren
+
+Wie bereits unter 2.5. und 2.6. dargestellt sind sowohl die LITT [42-44] als auch die
+RFA [46-48] Gegenstand derzeitiger Untersuchungen als minimal-invasive
+Therapieoptionen bei der Behandlung benigner und maliger Schilddrüsenläsionen.
+Für eine sichere und effektive Anwendung in der klinischen Praxis fehlen jedoch
+weitere experimentelle Daten, insbesondere gab es bislang noch keine Studien,
+welche beide Ablationsverfahren hinsichtlich ihrer Effektivität miteinander verglichen
+haben bzw. einen sicheren Vorteil für das eine oder andere Verfahren zeigen
+konnten.
+Ziel dieser Arbeit war es daher, die LITT und die RFA in Hinblick auf ihre Effektivität
+an der Schilddrüse miteinander zu vergleichen.
+Ein Vergleich der beiden
+Ablationsverfahren ist hierbei prinzipiell schwierig, da die LITT und RFA auf
+unterschiedlichen
+Technologien
+mit
+verschiedenen
+Energiequellen
+und
+Absorptionsraten beruhen. In diesem Zusammenhang spielen eine Vielzahl von
+Faktoren, wie Applikatorgeometrie, Gewebeeigenschaften, Eindringtiefe, Absorption
+und Ausbreitung im Gewebe, die Anzahl der Applikatoren, etc. eine wichtige Rolle. In
+unserem Vergleichsstudie haben wir daher den Parameter gewählt, welcher am
+leichtesten durch den klinisch tätigen Arzt beeinflusst werden kann, nämlich die
+Ausgangsleistung des Laser- bzw. RF-Generators.
+Die thermischen Läsionen wurden wiederum in Schilddrüsen von Hausschweinen exvivo in einem Leistungsbereich zwischen 10 und 20 W induziert. Die induzierbaren
+Läsionsvolumina der LITT lagen zwischen 0.74 ± 0.18 cm3 bei 10 W und 3.80 ± 0.41
+cm3 bei 20 W mit einem Maximum von 5.13 ± 0.16 cm3 bei 18 W. Im Vergleich
+hierzu lagen die induzierbaren Läsionen der RFA zwischen 2.43 ± 0.68 cm3 bei 10 W
+und 0.91 ± 0.71 cm3 bei 20 W mit einem Maximum von 2.80 ± 0.85 cm3 bei 14 W.
+Unsere Arbeit verglich erstmalig die LITT und die RFA hinsichtlich ihrer Wirksamkeit
+an Schilddrüsengewebe. In diesem experimentellen Ansatz konnten größere
+61
+
+Läsionsvolumina mit der LITT erzielt werden. Darüber hinaus ist ein Vorteil der LITT
+das Fehlen von Impendanzproblemen im Vergleich zur RFA, zum Nachteil einer
+allerdings manuell aufwendigeren Punktion bei der LITT. Inwieweit sich allerdings die
+in dieser Arbeit erzielten Ergebnisse in der Praxis im Rahmen einer in-vivo
+Anwendung bestätigen, bleibt abzuwarten.
+
+62
+
+3.
+
+Diskussion
+
+3.1. Bestimmung optischer Gewebeparameter von kolorektalen
+Lebermetastasen und deren Primärtumoren für die Dosimetrie
+der LITT
+Optische Gewebeparameter unterliegen in Abhängigkeit von der Wellenlänge des
+verwendeten Lichtes, mit dem das Gewebe durchstrahlt wird, einer erheblichen
+Varianz [78]. Darüber hinaus stehen in der Literatur für humanes
+Lebermetastasengewebe bzw. für kolorektale Primärtumoren nur unzureichende
+Daten über die optischen Parameter zur Verfügung [79]. In der hier durchgeführten
+Arbeit
+erfolgte
+die
+Bestimmung
+der
+optischen
+Parameter
+von
+Lebermetastasengewebe und Gewebe kolorektaler Karzinome bei drei ausgewählten
+Wellenlängen, die für die LITT relevant sind (850, 980, 1064 nm, Dioden-Laser,
+Neodym:YAG-Laser). Um die Möglichkeiten zur Bestimmung von optischen
+Parametern zu vereinfachen, sollten in einem weiteren Versuchsansatz die
+Unterschiede bzw. Übereinstimmungen von Lebermetastasen und deren kolorektalen
+Primärtumoren verglichen werden.
+Da Ravikumar bereits zeigen konnte, dass durch eine Thermokoagulation selbst
+Veränderungen der optischen Parameter entstehen [69], wurden darüber hinaus im
+gleichen experimentellen Ansatz die Veränderungen der optischen Parameter vor
+und nach vollständiger Thermokoagulation des Zielgewebes untersucht.
+Die optischen Parameter wurden unter Anwendung eines Messplatzes nach dem
+Prinzip des „Doppel-Ulbrichkugel-Systems“ bestimmt. Der Messplatz besteht aus
+einer monochromatischen Lichtquelle und einer mit hochreflektierendem Material
+beschichteten Ulbrichkugel, die mit Photodetektoren versehen ist. Das DoppelUlbrichkugel-System kann als Messverfahren mit der höchsten Präzision angesehen
+werden [78,80]. Berücksichtigt werden muss bei diesem methodischen Ansatz, dass
+die optischen Parameter in-vitro bestimmt werden. Dabei sind vor allem Unterschiede
+zur in-vivo Situation durch die Absorptionseigenschaften und Oxygenierung des
+Blutes zu erwarten [78]. Mit diesem System wurden eine Reihe von Untersuchungen
+zur Messung der optischen Eigenschaften von biologischem Gewebe durchgeführt
+[78,81,82].
+Bei der Bestimmung der optischen Parameter von Metastasengewebe der Leber im
+nicht koagulierten Gewebezustand zeigten sich zwischen 850 nm und 1064 nm mit
+zunehmender Wellenlänge ein signifikanter Abfall des Absorptionskoeffizienten und
+des Streuungskoeffizienten bei einer nur geringen Veränderung des
+Anisotropiefaktors. Hieraus resultierte eine Zunahme der optischen Eindringtiefe. Der
+Bereich der geringsten Absorption und der höchsten Eindringtiefe korrelieren direkt
+71
+
+miteinander und lagen damit in dem von Parrish 1981 als „optisches Fenster von
+biologischen Gewebe“ bezeichneten Wellenlängenbereich [83].
+Betrachtet man die Werte der hier gemessenen optischen Parameter von
+Metastasengewebe mit Werten von gesundem Lebergewebe aus Vorversuchen der
+eigenen Arbeitsgruppe [84], zeigen sich signifikante Unterschiede zwischen
+benignem und malignem Gewebe. Für den klinischen Einsatz ist der Vergleich der
+optischen Eindringtiefe von Bedeutung. Dieser war bei allen drei untersuchten
+Wellenlängen im Tumorgewebe um durchschnittlich 33 % größer als im gesunden
+Gewebe. Bei 850 nm resultierte eine um 0,51 mm, bei 980 nm eine um 0,52 mm und
+bei 1064 nm sogar eine um 1,24 mm höhere optische Eindringtiefe [84]. Van
+Hillegersberg berichtete beim Vergleich der optischen Parameter von gesundem und
+tumorösen Rattenlebergewebe bei 633 nm gleichfalls über eine erhöhte Absorption
+im gesunden Gewebe. Der Absorptionskoeffizient betrug in seiner Studie 0,38 mm-1
+im gesunden und 0,14 mm-1 im Tumorgewebe. Ebenso fand van Hillegersberg eine
+um 60 % erhöhte Eindringtiefe in tumorösen Rattenlebergewebe [85,86]. Als
+vergleichbare Untersuchung steht weiterhin die Studie von Nakamura zur Verfügung,
+in der die optische Eindringtiefe von gesunder und metastatisch veränderter humaner
+Leber bei 410, 630 und 670 nm bestimmt wurde [87]. Hier war eine um
+durchschnittlich 1,3 mm höhere Eindringtiefe in das Tumorgewebe nachweisbar.
+Eine mögliche Erklärung für diese Ergebnisse kann im unterschiedlichen Gehalt an
+Wasser, Hämoglobin, Zellbestandteilen, Chromophoren, Mitochondrien und der
+unterschiedlichen Gewebezusammensetzung gesehen werden. Schon vom
+makroskopischen Aspekt erscheint das Gewebe kolorektaler Metastasen weisslichblass, was auf einen niedrigeren Anteil an Chromophoren als im gesunden
+Lebergewebe hinweist. Beauvoit fand im Tumorgewebe einen signifikant geringeren
+Anteil an Hämoglobin, mitochondrialer Cytochromoxidase, Mitochondrien und DNAGehalt. Gleichzeitig konnte er aufzeigen, dass Absorption, Streuung und die hieraus
+resultierende optische Eindringtiefe im Gewebe wesentlich durch den Anteil an
+diesen Faktoren beeinflusst wird [88,89]. Die höhere optische Eindringtiefe in
+Tumorgewebe spricht für eine Tumorselektivität interstitieller Laseranwendungen.
+Hierdurch können im Tumorgewebe größere Mengen an Lichtenergie in das Gewebe
+eingebracht und somit größere Läsionsvolumina erzielt werden.
+Um zu vergleichen, welche Unterschiede in den optischen Parametern zwischen
+Lebermetastasen und kolorektalen Primärtumoren bestehen, erfolgte die
+Bestimmung beider Parameter bei Patienten mit synchron hepatisch metastasierten
+Kolonkarzinomen. Dabei zeigte sich, dass es mit ansteigender Wellenlänge sowohl
+bei Kolonkarzinom- als auch bei Lebermetastasengewebe zur Abnahme des
+Absorptions- und Streuungskoeffizienten kam. Der Anisotropiefaktor und die optische
+Eindringtiefe nahmen hingegen mit steigender Wellenlänge bei beiden Gewebearten
+signifikant zu. Die höchste Eindringtiefe (7,45 mm) und niedrigste Absorption fanden
+sich im Kolonkarzinomgewebe wiederum bei 1064 nm. Quantitativ zeigten die
+72
+
+optischen Eigenschaften des Primärtumors und der Lebermetastasen somit ein
+analoges Verhalten mit zunehmender Wellenlänge. Beim Vergleich der absoluten
+Werte zwischen nativem Primärtumor- und Lebermetastasengewebe traten dagegen
+signifikante
+Unterschiede
+auf.
+Der
+Absorptionskoeffizient
+und
+der
+Streuungskoeffizient waren im Kolonkarzinom stets niedriger, während der
+Anisotropiefaktor und die optische Endringtiefe stets höher als im
+Lebermetastasengewebe waren. Wir haben mit diesen Untersuchungen erstmalig
+nachweisen können, dass die optischen Parameter im Laufe des
+Metastasierungsprozesses verändert werden. Die Unterschiede werden offenbar
+vorwiegend durch streuende Faktoren verursacht und können daher in einem
+unterschiedlichen Gehalt an Gefäßen, Zellzahl und brechenden Zellbestandteilen
+eine mögliche Erklärung finden, wie sie Nakamura in seinen Untersuchungen
+nachgewiesen hat [87].
+Für die Erstellung einer Dosimetrie war es weiterhin von Bedeutung, Informationen
+über den Einfluss der thermischen Koagulation auf die optischen Parameter zu
+gewinnen. Daher erfolgte nach Vermessung der optischen Parameter im nativen
+Zustand eine weitere Messung des Gewebes nach vollständiger thermischer
+Koagulation. Sowohl für das Lebermetastasengewebe als auch für das Gewebe der
+kolorektalen Primärtumore traten qualitativ vergleichbare Veränderungen durch die
+Thermokoagulation auf. Der Absorptionskoeffizient wurde durch den Einfluss der
+Koagulation nicht beeinflusst. Pickering fand bei der Koagulation von Rattenleber
+eine Reduktion um 30% [90]. Der Streuungskoeffizient wies in unseren Versuchen
+durch die Koagulation der Gewebeprobe eine Zunahme von 4 % für das
+Lebergewebe und 36 % für das Kolongewebe auf. Essenpreis und Pickering
+berichteten in ihren tierexperimentellen Studien über Zunahmen um 25 % [90,91].
+Eine wesentliche Ursache für die Veränderungen des Streuungskoeffizienten kann
+im thermisch induzierten Aufbrechen von Disulfidbrücken und damit in der
+Veränderung der Protein-Tertiärstruktur gesehen werden, wie sie von Mirza
+beschrieben wurde [92]. Hieraus resultierte eine Erhöhung der Streuzentrendichte
+und somit eine Veränderung des Streuverhaltens.
+Der Anisotropiefaktor zeigte nach Koagulation eine signifikante Abnahme. Dieses
+Verhalten wird in der Literatur widersprüchlich beschrieben. Essenpreis fand bei
+1064 nm einen Anstieg von 0,870 auf 0,855, Pickering dagegen eine Abnahme von
+0,920 auf 0,839 [90,91]. Nach Roggan ist diese Veränderung wellenlängenabhängig.
+In seinen Untersuchungen verringerte sich der Anisotropiefaktor durch Koagulation
+unterhalb einer Wellenlänge von 1400 nm, während oberhalb von 1400 nm eine
+leichte Zunahme zu verzeichnen war [93]. Diese thermisch induzierten Unterschiede
+des
+Anisotropiefaktors
+sind
+ebenso
+wie
+die
+Veränderungen
+des
+Streuungskoeffizienten durch Strukturveränderungen von Proteinen und den daraus
+resultierenden Veränderungen des wellenlängenabhängigen Brechungsindex
+erklärbar.
+73
+
+Die Untersuchungen des Koagulationseinflusses auf die optische Eindringtiefe zeigte
+insgesamt eine signifikante Abnahme nach Koagulation von bis zu 51% im
+Kolongewebe und 33% im Lebergewebe. Verfügbare Angaben zur optischen
+Eindringtiefe bei gesundem Lebergewebe finden sich lediglich bei Essenpreis, der
+über eine Abnahme um 26% nach Koagulation berichtete [91]. Diese Abnahme der
+optischen Eindringtiefe muss im Wesentlichen auf die starke Veränderung des
+Streuverhaltens zurückgeführt werden, da die geringe Veränderung der Absorption
+durch die Koagulation diesem entgegenwirkt und zu einer Zunahme der Eindringtiefe
+führen würde.
+Während im nativen Gewebe noch signifikante Unterschiede beim direkten Vergleich
+zwischen Primärtumor und Lebermetastase zu finden waren, konnten in unserem
+Versuchsansatz für das koagulierte Gewebe dieser beiden Entitäten keine
+Unterschiede mehr für den Absorptions- und Streuungskoeffizienten sowie für die
+optische Eindringtiefe nachgewiesen werden. Eine mögliche Erklärung hierfür könnte
+sein, dass durch die thermische Gewebekoagulation die Proteine denaturiert und der
+spezifische Gewebeaufbau soweit zerstört wird, dass die Unterschiede der optischen
+Parameter nivelliert werden. Vergleichbare Daten in der Literatur zum Verhalten der
+optischen Parameter von Primärtumor und Metastasengewebe nach Koagulation
+liegen nicht vor, da diese Untersuchungen im Rahmen dieser Arbeit erstmalig
+erfolgten.
+Mit dieser Arbeit konnte erstmalig gezeigt werden, dass es durch die Metastasierung
+zu einer Veränderung des optischen Verhaltens des Gewebes kommt. In
+Tumorgewebe wurde eine höhere optische Eindringtiefe erzielt, was einen
+therapeutischen Vorteil durch ein potentiell größeres Behandlungsvolumen darstellt.
+Trotz gleicher Histologie zeigten sich keine Übereinstimmungen der optischen
+Parameter von Primärtumor und Lebermetastase, was auf eine Modifikation durch
+die Metastasierung hindeutet. Infolge der thermischen Gewebekoagulation kam es
+zu einer Veränderung der optischen Parameter von gesundem Kolon-,
+Kolonkarzinom- und Lebermetastasengewebe. Die hieraus resultierende niedrigere
+optische Eindringtiefe macht deutlich, dass für eine effektive und sichere Dosimetrie
+der LITT eine Anpassung der Bestrahlungsparameter mit zunehmender
+Applikationsdauer notwendig ist.
+
+74
+
+3.2. Therapiestudien
+
+bei
+
+Patienten
+
+mit
+
+kolorektalen
+
+Lebermetastasen zur Optimierung der LITT
+Zur Behandlung auch größer Lebermetastasen wurde eine Optimierung der LITT
+angestrebt. Tierexperimentelle Arbeiten der eigenen Arbeitsgruppe konnten zeigen,
+dass eine Perfusionsunterbrechung während der LITT eine Effektivitätssteigerung im
+Hinblick auf die Größe der erzielten Läsionsvolumina mit sich bringt [70,94].
+In der hier durchgeführten klinischen Arbeit sollte die LITT in Kombination mit einer
+kompletten oder selektiven Perfusionsunterbrechung hinsichtlich ihrer Effektivität im
+Vergleich zur normalen Perfusion bei Patienten mit irresektablen hepatischen
+Metastasen untersucht werden. Insbesondere sollte hierbei der Frage nachgegangen
+werden, ob die experimentell beobachteten positiven Effekte auch unter klinischen
+Aspekten nachvollziehbar sind.
+In Hinblick auf die Beurteilung der Effektivität der Blutflussunterbrechung bestätigte
+diese
+Studie
+die
+Ergebnisse
+der
+vorausgegangenen
+experimentellen
+Untersuchungen: Die LITT führt in Kombination mit einer prätherapeutischen
+Perfusionsunterbrechung mittels Gefäßembolisation oder Pringle-Manöver zu einer
+Erhöhung der Läsionsvolumina und verbesserten lokalen Tumorkontrolle auch im
+klinischen Einsatz. Bei der Berechnung der postinterventionellen thermischen
+Läsionsvolumina zeigte sich in allen drei Gruppen ein signifikant höheres Volumen
+als das Ausgangsvolumen der Metastase, wobei die LITT in Kombination mit einem
+Pringle-Mannöver das größte Läsionsvolumen erzielen konnte im Vergleich zur LITT
+ohne Gefäßunterbrechung sowie in Kombination mit Stärkemikrosphären. Yamasaki
+untersuchte den Einfluss einer Ballonokklusion der Arteria hepatica während der RFA
+von Patienten mit hepatozellulärem Karzinom auf die Größe der Thermoläsionen.
+Hierbei konnte gezeigt werden, dass die Okklusion eine signifikante Steigerung des
+größten Läsionsdurchmessers von 35,5 mm auf 47,6 mm erzielen konnte [95].
+Miyamoto beschrieb nach kompletter Perfusionsunterbrechung durch einen
+arteriellen und venösen Ballonkatheter bei 4 Patienten einen maximalen
+Läsionsdurchmesser von 56,5 mm [96]. Diese Daten machen deutlich, dass eine
+Perfusionsunterbrechung während der LITT eine enorme Effizienzsteigerung zur
+Folge hat.
+Hinsichtlich ihrer Komplikationsrate können In-situ-Ablationsverfahren als sicher
+eingestuft werden. In einer Übersichtsarbeit von über 3800 mittels RFA behandelten
+Patienten beschrieb Mulier eine Major-Komplikationsrate von 9 % und eine Letalität
+von 0,5 % [97]. Bei bislang etwas 1500 in der Literatur beschriebenen Patienten, die
+durch eine LITT behandelt wurden, fanden sich ähnliche Ergebnisse mit einer MinorMorbidität von 15 – 20 %, einer Major-Morbidität von unter 2 % und einer Letalität
+von 0,3 % [98,99]. Diese Daten spiegeln sich in den Ergebnissen unserer Studie
+wider, in der wir eine Gesamt-Komplikationsrate von 21,4 % zu verzeichnen hatten.
+75
+
+Patienten nach offener LITT wiesen mit 26,1 % eine höhere Morbidität auf, als
+Patienten nach perkutaner Ablation mit Applikation von Stärkemikrosphären mit 15,7
+%, wobei die Kombination der LITT mit einer selektiven Perfusionsunterbrechung
+mittels DSM zu keiner Erhöhung der Komplikationsrate geführt hat. Die
+interventionelle Platzierung eines Therapiekatheters in der Arteria hepatica und die
+Applikation der Stärkemirkosphären verlief für die Patienten technisch einwandfrei
+und ohne nachweisbare Probleme. Der Verschluss der Leberarterie ist bei einigen
+Patienten mit einem dumpfen Druckgefühl im Oberbauch assoziiert [100,101]. Durch
+die komplette Unterbrechung der Blutzufuhr im Rahmen des Pringle-Manövers ist ein
+erhöhtes Schädigungsrisiko für thermosensitive Strukturen wie Blutgefäße und
+größere Gallengänge denkbar. Weder in unseren Ergebnissen noch in anderen
+bislang vorliegenden klinischen Studien kann dieses Risiko allerdings sicher belegt
+werden [95,96,102].
+Klinisch ist es somit möglich, die Effektivität der LITT durch eine prätherapeutische
+Perfusionsunterbrechung mittels Gefäßembolisation oder Pringle-Manöver zu
+steigern, um eine Erhöhung der Läsionsvolumina sowie eine verbesserte, lokale
+Tumorkontrolle zu erzielen. Bei gleicher Komplikationsrate im Vergleich zur LITTBehandlung ohne Unterbrechung der Leberperfusion können auf diesem Wege mit
+weniger Applikationen bedeutend größere Thermoläsionen erzielt werden. Inwieweit
+die Perfusionsunterbrechung die Langzeitergebnisse nach einer In-situ-Ablation
+beeinflusst, lässt sich gegenwärtig nicht beantworten.
+
+76
+
+3.3. Untersuchungen zur Dosimetrie und Therapieplanung bei der
+laserinduzierten Thermotherapie von Lungentumoren
+Während die LITT und RFA als Alternative zur chirurgischen Resektion bei der
+Behandlung von Lebermetastasen kolorektaler Karzinome bereits regelmäßig
+angewendet werden, kommen sie bei der Therapie von Lungentumoren erst seit
+relativ kurzer Zeit zum Einsatz [9-11,48]. Allerdings fehlten bislang klinische oder
+experimentelle Daten die den energieabhängigen Effekt des Laserlichtes auf das
+Lungengewebe untersuchten und im Sinne einer Dosis-Wirkbeziehung evaluierten.
+Diese Daten sind jedoch Voraussetzung für eine sichere und effektive Anwendung
+der LITT mit Induktion ausreichend großer Läsionen. Im Vergleich zur RFA wurde für
+die LITT ein günstigerer Energietransfer in der Lunge angenommen, weswegen die
+LITT in der vorliegenden Arbeit als zu untersuchendes Verfahren ausgewählt wurde.
+Ziel dieser experimentellen Studie sollte sein, anhand von Schweinelungen die
+Größe von laserinduzierten Thermoläsionen in Abhängigkeit der verwendeten
+Applikationsdauer und -leistung zu untersuchen, um so den Leistungsbereich für die
+Induktion möglichst großer Läsionen zu bestimmen. Hierbei wurden ein offenchirurgisches sowie ein perkutan-interventionell einzusetzendes Punktionssystem der
+LITT evaluiert. Ferner sollten in der vorliegenden Arbeit zur Verifizierung der ex-vivoDaten an Hausschweinen in-vivo-Versuche zur Evaluation der Laserinduzierten
+Thermoablation unter normalen Lungenperfusions- und Ventilationsbedingungen
+durchgeführt werden. Dafür wurden die Versuchsbedingungen gewählt, unter denen
+sich im ex-vivo-Ansatz die höchste Effektivität zeigte.
+Die mit den beiden Punktionssystemen ex-vivo erzielten Läsionsvolumina zeigten bei
+zunehmender Laserleistung einen plateauförmigen Kurvenverlauf oberhalb einer
+Laserleistung von 25 Watt. Dieser Plateau-Effekt ist analog zu dem, welcher ex-vivo
+an der Leber beschrieben ist [103]. Vergleicht man die vorliegenden Ergebnisse mit
+denen von ex-vivo Studien an der Leber zeigt sich ferner, dass die Läsionsvolumina
+in der Leber in Bezug auf die eingesetzte Energie größer sind [104,105]. Eine
+mögliche Erklärung hierfür ist, dass das Lungengewebe im Vergleich zur Leber
+während der ex-vivo-Versuche erheblich schrumpft.
+Lee erzielte in einer ex-vivo Studie an Rinderlungen mittels RFA maximale
+Läsionsdurchmesser von 34 ± 6 mm bei einer Applikationsdauer der HF-Energie von
+5 Minuten [106]. In der vorliegenden Studie beliefen sich die maximalen
+Durchmesser der LITT bei einer Laserleistung von 20 Watt und einer
+Applikationsdauer von 10 Minuten auf 24,6 ± 1,21 mm (transversal) und 32,2 ±
+2,39 mm (axial) mit dem perkutanen Punktionssystem, während bei der offen
+chirurgischen Anwendung Durchmesser von 24,6 ± 1,21 mm (transversal) und 32,2 ±
+2,39 mm (axial) bei einer Applikationszeit von 20 Minuten und einer Laserleistung
+von 25 Watt erreicht wurden. In Anbetracht eines erforderlichen Sicherheitssaumes
+77
+
+von 1 cm, wären die erzielten Läsionsvolumina nur für kleine Tumoren geeignet. Eine
+Metastase von 1 cm im Durchmesser beispielsweise würde für eine sichere und
+vollständige Thermoablation einen Läsionsdurchmesser von 3 cm benötigen. In der
+vorliegenden Arbeit wurden allerdings nur Singlepunktionen durchgeführt. Die in der
+Klinik an der Leber zur Anwendung kommenden Multipunktionen sind mit deutlich
+größeren Läsionsvolumina assoziiert [104,107]. So zeigen Erfahrungen an der Leber,
+dass es prinzipiell auch an der Lunge möglich sein sollte, große Läsionen mittels der
+LITT induzieren zu können.
+Die möglichen Auswirkungen von Perfusion und Ventilation auf die LITT konnten in
+diesen ex-vivo-Versuchen nicht geklärt werden, weshalb in der vorliegenden Arbeit
+zudem in-vivo-Versuche an Hausschweinen mittels des offen-chirurgischen
+Punktionssystems an der ventilierten und perfundierten Lunge erfolgten. Hierbei
+zeigten sich die erzielen Thermoläsionen signifikant kleiner als ex-vivo. Eine
+Erklärung hierfür sind die durch die Perfusion und Ventilation bedingten Kühleffekte
+auf das Lungengewebe. Unsere enzymhistologischen Untersuchungen zeigten
+jedoch einen vollständigen Verlust der NADP-Dehydrogenase-Aktivität im Bereich
+der Thermoläsionen als Zeichen einer irreversiblen Zellschädigung. Vitale Zellen
+wurden in der Übergangszone der Thermoläsion zum thermisch nicht alterierten
+Lungengewebe sowie in der Nähe größerer Blutgefäße gefunden. Demzufolge
+unterliegen die Zellen in der unmittelbaren Umgebung größerer Gefäße einer
+Protektion. Einer klinischen Anwendung der LITT an der Lunge sollten weitere
+Untersuchungen zur Evaluierung der durch Ventilation und Perfusion bedingten
+Kühleffekte vorangestellt werden. Diese Daten könnten dann in ein Dosimetriemodel
+einfließen [108].
+Mit den erhobenen Daten gelang es erstmals eine Dosis-Wirkungs-Beziehung für die
+LITT an Lungengewebe für zwei klinisch relevante Punktionssysteme zu erstellen.
+Sowohl das perkutane als auch das offene, intraoperative Applikationssystem der
+LITT induziert reproduzierbare, klinisch relevante Läsionen in der Lunge. Für die
+klinische Anwendung bedarf es jedoch weiterer Untersuchungen, insbesondere der
+Einfluss von Perfusion und Ventilation auf die LITT während einer in-vivo-Anwendung
+gehört hierbei weiter evaluiert.
+
+78
+
+3.4. Untersuchungen zur Dosimetrie und Therapieplanung bei der
+laserinduzierten Thermotherapie von Schilddrüsentumoren
+In den vorhergehenden Arbeiten lag der Fokus auf der Therapieoptimierung der LITT
+und RFA bei der Behandlung von Leber- und Lungentumoren. In den letzten Jahren
+kamen beide In-situ-Ablationsverfahren auch bei der Behandlung anderer
+parenchymatöser Tumore zur Anwendung. So sind die LITT und RFA Gegenstand
+derzeitiger Untersuchungen als alternative Therapieoptionen bei der Behandlung
+benigner und maliger Schilddrüsenläsionen [12-14]. Dieser Ansatz wurde bereits
+weltweit von einigen Arbeitsgruppen verfolgt und in kleineren klinischen Pilotstudien
+zur lokalen Therapie von verschiedenen Schilddrüsenveränderungen bis hin zu
+Malignomen [57,58,62-65] eingesetzt. Daten für einen reproduzierbaren Einsatz der
+LITT an der Schilddrüse wurden bislang nicht veröffentlicht. Ziel der vorliegenden
+Studie sollte daher sein, eine Dosis-Wirkungsbeziehung für die LITT von
+Schilddrüsengewebe ex-vivo zu erstellen, um erstmals grundlegende Parameter für
+eine spätere klinische Anwendung zu ermitteln. Ferner sollte zum Nachweis einer
+irreversiblen Zellschädigung des Schilddrüsengewebes sowie Evaluierung der
+thermischen Schädigung die LITT unter in-vivo-Bedingungen an Hausschweinen
+durchgeführt werden.
+Die Ergebnisse dieser Studie zeigen, dass es möglich ist, mit der LITT
+reproduzierbare Thermoläsionen von relevanter Größe in angemessener
+Applikationszeit in der Schilddrüse zu induzieren.
+Für die longitudinal erzielten Läsionsdurchmesser stellte sich etwas oberhalb der
+aktiven Applikatorlänge ein Plateaueffekt ein, der das erreichbare Maximum auf
+22 mm begrenzte. Dieser Effekt ist für die LITT bekannt und führt dazu, dass, bei
+gleichem Applikator, die maximal erzielbaren Läsionsvolumina entscheidend durch
+die transversale Ausdehnung bestimmt werden [103].
+Die transversal erzielten Durchmesser zeigten in unserem Aufbau ebenfalls einen
+Plateaueffekt. Der hier dargestellte Effekt entspricht jedoch nicht einer Charakteristik
+des verwendeten Applikators oder des Verfahrens an sich, sondern zeigte eine
+Limitierung des gewählten Organmodells. Ab einer Laserleistung von 16 Watt kam es
+regelhaft zur vollständigen Organkoagulation in transversaler Richtung, womit kein
+größeres Koagulationsvolumen erreichbar war. Ob sich an größeren Organen
+ebenfalls bereits in diesem Leistungsbereich ein Plateaueffekt für die erreichbaren
+Läsionsvolumina ergibt, kann im vorliegenden Aufbau nicht gezeigt werden.
+Aus der Anwendung der LITT zur Ablation von Lebermetastasen liegen jedoch
+Erfahrungen vor, die unter Verwendung längerer Applikatoren, auch am
+perfundierten Organ die Induktion erheblich größerer Koagulationsnekrosen zeigen
+[53]. Diese Ergebnisse lassen sich jedoch nicht vollständig auf eine Anwendung an
+79
+
+der Schilddrüse übertragen, da sich in-vivo die Perfusionsverhältnisse, sowie die
+optischen Eigenschaften der verschiedenen Organparenchyme unterscheiden.
+Während die optischen Eigenschaften, die für die Eindringtiefe des Laserlichts in das
+Gewebe entscheidend sind, für das Leberparenchym im relevanten
+Wellenlängenbereich bekannt sind [109], sind diese Daten für das
+Schilddrüsengewebe bisher nicht publiziert.
+Aufgrund eines Wärmeabtransportes durch den Blutstrom ist klinisch bei gleicher
+Applikatorart ein höherer notwendiger Energieeintrag anzunehmen [15]. Jedoch
+muss die Dosimetrie so ausgelegt werden, dass die Schonung des gesunden
+Organparenchyms sowie der neurovaskulären Strukturen der Umgebung
+Berücksichtigung finden. Hierfür ist die Temperaturausbreitung im Gewebe von
+entscheidender Bedeutung. Die in unserer Arbeit dargestellten Maximaltemperaturen
+in 5 mm Entfernung von der Laserapplikatorachse lagen nach 300 Sekunden
+zwischen 95°C und 113°C. Ein definitiver Zelltod ist in diesem Temperaturbereich
+aufgrund entstehender Zellmembrandefekte sicher. In 10 mm Entfernung konnten
+Temperaturen von maximal 73°C erreicht werden, welche zur Denaturierung von
+Gewebsproteinen führen. Dossing postuliert einen Mindestabstand von 15 mm zu
+den der Schilddrüse benachbarten neurovaskulären Strukturen [110], wobei unklar
+bleibt, ob sich die Angabe auf den Abstand zum Applikator oder zur Zirkumferenz der
+zu behandelnden Läsion bezieht. Da im Vergleich zu dem gemessenen ex-vivoTemperaturverlauf die Temperaturgradienten bei gleichen Leistungsparametern invivo durch Perfusionseffekte deutlich flacher ausfallen, muss eine genaue
+Temperaturmessung an den empfindlichen neurovaskulären Strukturen am
+Großtiermodell erfolgen.
+Mit der vorliegenden Studie konnten die zum klinischen Einsatz der LITT an der
+Schilddrüse notwendigen Grundlagen geschaffen werden. Es konnte demonstriert
+werden, dass sich mit der LITT reproduzierbare Thermoläsionen im
+Schilddrüsenparenchym induzieren lassen. Eine Anwendung in der klinischen Praxis
+scheint auf Grundlage der erhobenen Daten durchführbar zu sein. Es fehlen jedoch
+derzeit die Ergebnisse aus umfangreicheren Großtierversuchen hinsichtlich der
+Dosis-Wirk-Beziehungen am perfundierten Organ sowie die Kenntnis der optischen
+Parameter des Gewebes, die zusammen eine optimale Bestrahlungsplanung
+ermöglichen werden.
+
+80
+
+3.5. Untersuchungen zur Dosimetrie und Therapieplanung bei der
+Radiofrequenzablation von Schilddrüsentumoren
+Neben der LITT kam zunehmend auch die RFA als In-situ-Ablationsverfahren bei der
+Behandlung parenchymatöser Tumoren, so auch an der Schilddrüse, zur
+Anwendung. Eine Reihe klinischer Studien konnten bereits die grundsätzliche
+technische Machbarkeit der RFA an der Schilddrüse zeigen [12,13,77]. Allerdings
+gab es bislang keine experimentellen Daten, welche die energiebezogenen
+Auswirkungen der RF-Ablation auf Schilddrüsengewebe beschrieben und in Hinblick
+auf eine Dosis-Wirkungsbeziehung bewerteten. Ziel dieser Arbeit war es daher,
+erstmalig die Größe induzierbarer RF-Läsionen in Schilddrüsengewebe in Relation
+zur Applikationsdauer und –leistung zu untersuchen, um den optimalen
+Leistungsbereich der RFA an der Schilddrüse zu bestimmen. Ferner sollte zum
+Nachweis einer irreversiblen Zellschädigung des Schilddrüsengewebes sowie
+Evaluierung der thermischen Schädigung die RFA unter in-vivo-Bedingungen an
+Hausschweinen durchgeführt werden.
+Die Ergebnisse dieser Studie zeigen, dass es möglich ist, mit der RFA
+reproduzierbare Thermoläsionen von relevanter Größe in der Schilddrüse zu
+induzieren.
+Für die longitudinal erzielten Läsionsdurchmesser stellte sich etwas oberhalb der
+aktiven Applikatorlänge von 15 mm ein Plateaueffekt ein, der das erreichbare
+Maximum auf 18 mm begrenzte. Die transversal erzielten Durchmesser zeigten in
+unserem Aufbau ebenfalls einen Plateaueffekt. In unserem Versuchsaufbau konnten
+die größten Läsionsvolumina der RFA bei einer gegebenen Leistung von 14 Watt
+erzielt werden. Erfahrungen an der Leber haben gezeigt, dass mit der RFA wesentlich
+größere Läsionsvolumina mit längerer Applikatoren auch unter Perfusionsbedingungen
+induziert werden können [26]. Diese Ergebnisse lassen sich jedoch nicht vollständig
+auf eine Anwendung an der Schilddrüse übertragen, da sich in vivo die
+Perfusionsverhältnisse, sowie die elektrischen Gewebeeigenschaften beider
+Organparenchyme unterscheiden. Während die relevanten Parameter für einen
+guten Energietransfer zur Induktion größerer Läsionsvolumina für das
+Leberparenchym bekannt sind [27], sind diese Daten für das Schilddrüsenparenchym
+bisher nicht publiziert. Allerdings sind aufgrund eines Wärmeabtransportes durch den
+Blutstrom im klinischen Einsatz bei gleicher Applikatorart ein höherer notwendiger
+Energieeintrag anzunehmen [111]. Jedoch muss die Dosimetrie so ausgelegt
+werden, dass die Schonung des gesunden Organparenchyms, sowie der
+neurovaskulären Strukturen der Umgebung Berücksichtigung finden. Hierfür ist die
+Temperaturausbreitung im Gewebe von entscheidender Bedeutung. Das biologische
+Prinzip der thermischen Ablation ist, dass eine Temperaturerhöhung auf ≥ 42,5 ° C eine
+zytotoxische Wirkung zur Folge hat [112].
+81
+
+Die in unserer Arbeit dargestellten Maximaltemperaturen in 5 mm Entfernung von der
+Applikatorachse lagen zwischen 44°C und 61°C. Ein definitiver Zelltod ist in diesem
+Temperaturbereich aufgrund entstehender Zellmembrandefekte sicher. In 10 mm
+Entfernung konnten Temperaturen von maximal 53°C erreicht werden. Dossing
+postuliert einen Mindestabstand von 15 mm zu den der Schilddrüse benachbarten
+neurovaskulären Strukturen [110]. Nach unseren Daten sollte ein Mindestabstand von
+10 mm von der HF-Applikatorachse ausreichend sein, da im Vergleich zu dem
+gemessenen ex-vivo-Temperaturverlauf, die Temperaturgradienten bei gleichen
+Leistungsparametern in-vivo durch Perfusionseffekte deutlich flacher ausfallen.
+Darüber hinaus zeigten die enzymhistologischen Untersuchungen in unserer Arbeit
+normale NADPH-Dehydrogenase-Aktivitäten im Übergangsbereich zu thermisch
+nicht alterierten Gewebe, was für vitale Zellen spricht. Auf der anderen Seite zeigte
+sich ein vollständiger Verlust der NADPH-Dehydrogenase-Aktivität als Zeichen der
+irreversiblen Zellschädigung innerhalb der thermischen Läsion. Um den minimalen
+Abstand zum Applikator definitiv bestimmen zu können, muss jedoch analog zur
+LITT eine genaue Temperaturmessung an den empfindlichen neurovaskulären
+Strukturen erfolgen.
+Für einen klinischen Einsatz der RFA an der Schilddrüse konnten mit den erhobenen
+Daten die notwendigen Grundlagen geschaffen werden. Es konnte erstmalig
+demonstriert werden, dass sich mittels RFA reproduzierbare Thermoläsionen im
+Schilddrüsenparenchym induzieren lassen. In der experimentellen Situation zeigen
+unsere Messungen eine große Konstanz der Ergebnisse, jedoch sind bei einer
+klinischen Anwendung weitere Einflussgrößen zu erwarten. Insbesondere die durch
+die Organperfusion induzierten Kühleffekte haben einen erheblichen Einfluss auf die
+zu erwartenden Läsionsvolumina in-vivo [113] und müssen durch den Vergleich der
+ex-vivo-Daten und den noch zu gewinnenden in-vivo-Daten weiter analysiert werden.
+
+82
+
+3.6. Experimentelle Untersuchung der Effektivität der RFA im
+Vergleich
+zur
+LITT
+bei
+der
+Behandlung
+von
+Schilddrüsentumoren
+In den vorherigen Arbeiten konnten notwendige Grundlagen für den Einsatz der LITT
+und der RFA an der Schilddrüse geschaffen werde, ohne dass bislang ein sicherer
+Vorteil für das eine oder andere In-situ-Ablationsverfahren gefunden werden konnte.
+Ziel dieser Arbeit war es daher, die LITT und die RFA in Hinblick auf ihre Effektivität
+an der Schilddrüse miteinander zu vergleichen.
+Ein Vergleich der beiden
+Ablationsverfahren ist hierbei prinzipiell schwierig, da die LITT und RFA auf
+unterschiedlichen Technologien mit verschiedenen Energiequellen und –
+absorptionsraten beruhen. In diesem Zusammenhang spielen eine Vielzahl von
+Faktoren, wie Applikatorgeometrie, Gewebeeigenschaften, Eindringtiefe, Absorption
+und Ausbreitung im Gewebe, die Anzahl der Applikatoren, etc. eine wichtige Rolle. In
+unserem Vergleichsstudie haben wir daher den Parameter gewählt, welcher am
+leichtesten durch den klinisch tätigen Arzt beeinflusst werden kann, nämlich die
+Ausgangsleistung des Laser- bzw. RF-Generators. In unserem Versuchsaufbau war
+die LITT bei einer Laserleistung von 16 Watt am effektivsten, die RFA bei einer
+Leistung von 14 Watt. Beim Vergleich beider Ablationsverfahren bei ihren jeweils
+besten Effektivitätsindizes waren die mit der LITT erzielbaren Läsionsvolumina
+signifikant größer als bei der RFA. Auch in-vivo waren die Läsionsvolumina der LITT
+bei gleicher Ausgangsleistung größer im Vergleich zur RFA, wobei infolge der aus
+Versuchen an der Leber bekannten Kühleffekte die Läsionsvolumina insgesamt invivo kleiner waren als ex-vivo [113]. Die kleineren Läsionsvolumina bei der RFA im
+Vergleich zur LITT beruhen am ehesten auf dem rasch ansteigenden, elektrischen
+Gewebewiderstand (Impedanz), wodurch eine Reduktion des Stromflusses und eine
+Minderung der applizierten Energie resultiert. Diese Limitation ist zumindest von
+Daten an der Leber her bekannt [114,115]. Die Induktion größerer Läsionsvolumina
+mit
+der RFA
+würde
+eine
+langsamere
+Zunahme
+des
+elektrischen
+Gewebewiderstandes erforderlich machen. Dieses würde eine geringere
+Ausgangsleistung bei einer längeren Applikationsdauer bedürfen. Insbesondere eine
+längere Applikationszeit scheint aber für eine klinische Anwendung weniger gut
+geeignet zu sein. Im Gegensatz zur RFA ist die LITT unabhängig von der Impedanz
+[108]. Dies ist einer der grundlegenden Unterschiede beider Ablationsverfahren.
+Obwohl die Energie bei der LITT unabhängig von der Impedanz appliziert wird,
+resultiert hieraus nicht ein unbegrenzter Anstieg der Läsionsvolumina, vielmehr
+kommt es auch hier zu einem Plateau-Effekt, welcher bereits aus Versuchen an der
+Leber bekannt ist [108,114,115]. Ein weiterer wesentlicher Einflussfaktor war das nur
+begrenzt zur Verfügung stehende Organvolumen in unserem Versuchsaufbau. Eine
+höhere Laserleistung hatte daher keine größeren Läsionsvolumina zur Folge, da kein
+weiteres Parenchym verfügbar war. Es ist daher an der Schilddrüse nicht möglich,
+83
+
+den aus der Leber bekannten Plateau-Effekt auch an der Schilddrüse zu
+demonstrieren. Ein Nachteil der LITT im Vergleich zur RFA ist die manuell
+aufwendigere Punktion durch die Notwendigkeit des Einführen des Applikators über
+eine koaxiale Hülle in Seldinger-Technik [5,103,104].
+Unsere Arbeit verglich erstmalig die LITT und die RFA hinsichtlich ihrer Wirksamkeit
+an Schilddrüsengewebe. In diesem experimentellen Ansatz konnten größere
+Läsionsvolumina mit der LITT erzielt werden. Darüber hinaus ist ein Vorteil der LITT
+das Fehlen von Impendanzproblemen im Vergleich zur RFA, zum Nachteil einer
+allerdings manuell aufwendigeren Punktion bei der LITT. Inwieweit sich allerdings die
+in dieser Arbeit erzielten Ergebnisse in der Praxis im Rahmen einer in-vivo
+Anwendung bestätigen, bleibt abzuwarten.
+
+84
+
+4.
+
+Zusammenfassung
+
+Die chirurgische Resektion von Leber- und Lungentumoren ist das einzige
+Therapieverfahren mit gesicherter kurativer Zielsetzung. Allerdings kann nur eine
+Minderheit der Patienten einer chirurgischen Therapie zugeführt werden. Bei In-situAblationsverfahren wie der Laserinduzierte Thermotherapie (LITT) und der
+Radiofrequenzablation (RFA) werden Tumoren mit einem nadelförmigen Applikator
+punktiert und mittels thermischer Energie in-situ zerstört. Limitiert wird der sichere
+klinische Einsatz der Ablationsverfahren bislang durch die fehlende Kenntnis der
+Lichtausbreitung im Gewebe, um eine Vorhersage über das Ausmaß der
+entstehenden Thermoläsionen zu treffen und die geeigneten Applikationsparameter
+für eine vollständige Tumorzerstörung im Vorfeld der Behandlung festlegen zu
+können. Ferner ist aus onkologischen Gründen die Induktion ausreichend großer
+Läsionen
+mit
+vollständiger
+Tumordestruktion
+erforderlich.
+Ziel
+dieser
+Habilitationsarbeit war es daher, den genannten Limitationen der LITT und RFA
+durch die experimentelle und klinische Evaluation neuer Applikationsmodi und
+Planungsmöglichkeiten an der Leber, Lunge und Schilddrüse entgegen zu wirken
+und damit das Spektrum der Therapiemöglichkeiten auszuweiten.
+Der erste Schritt bestand in der Evaluation der optischen Gewebeparameter
+kolorektaler Lebermetastasen und deren Primärtumoren im nativen und koagulierten
+Zustand von Patienten mit einem synchron hepatisch metastasierten Kolonkarzinom.
+Trotz gleicher Histologie zeigten sich keine Übereinstimmungen der optischen
+Parameter von Primärtumor und Lebermetastase, was auf eine Modifikation durch
+die Metastasierung hindeutet. Ferner kam es infolge der thermischen
+Gewebekoagulation zu einer Veränderung der optischen Parameter von
+Kolonkarzinom- und Lebermetastasengewebe. Mit diesem Projektteil konnten
+erstmalig die optischen Gewebeparameter kolorektaler Lebermetastasen und deren
+Primätumoren vorgelegt werden. Die Daten machen deutlich, dass für eine effektive
+Anwendung der LITT eine Anpassung der Bestrahlungsparameter mit zunehmender
+Applikationsdauer erforderlich ist.
+Zur Behandlung auch größerer Lebermetastasen wurde im zweiten Arbeitsschritt
+eine Optimierung der LITT angestrebt. Hierbei wurde die LITT in Kombination mit
+einer Unterbrechung der Leberperfusion hinsichtlich ihrer Effektivität im Vergleich zur
+normalen Perfusion bei Patienten mit irresektablen, hepatischen Metastasen
+untersucht. Es konnte gezeigt werden, dass die LITT in Kombination mit einer
+Perfusionsunterbrechung zu einer Erhöhung der Läsionsvolumina führt. Bei gleicher
+Komplikationsrate im Vergleich zur LITT ohne Perfusionsunterbrechung können auf
+diesem Wege bedeutend größere Thermoläsionen erzielt werden.
+Die geringe Invasivität machen die In-situ-Ablationsverfahren auch für die Therapie
+von Tumoren anderer parenchymatöser Organe, wie der Lunge und der Schilddrüse,
+interessant. In einem weiteren Arbeitsschritt wurde die LITT zunächst an der Lunge
+85
+
+evaluiert. Hierbei wurde die an Schweinelungen ex-vivo mittels eines perkutanen als
+auch offenen Punktionssystems induzierten Thermoläsionen in Abhängigkeit der
+verwendeten Applikationsdauer und -leistung untersucht, um so den
+Leistungsbereich für die Induktion möglichst großer Läsionen zu bestimmen. Es
+konnten erstmals Daten für eine Dosis-Wirkungs-Beziehung für die LITT an
+Lungengewebe gewonnen werden. Sowohl das perkutane als auch das offene
+Applikationssystem der LITT induziert reproduzierbare, klinisch relevante Läsionen in
+der Lunge.
+In den letzten hier dargestellten Arbeiten galt es, die LITT sowie die RFA in Hinblick
+auf die Größe induzierbarer Läsionen in Relation zur Applikationsdauer und –leistung
+an der Schilddrüse zu evaluieren. Die vorliegenden Arbeiten beschreiben erstmalig
+die Grundlagen der LITT sowie der RFA an der Schilddrüse. Es gelang mit beiden
+Ablationsverfahren reproduzierbare Thermoläsionen von relevanter Größe in der
+Schilddrüse zu induzieren. Zudem wurden beide Ablationsverfahren erstmalig
+hinsichtlich ihrer Effektivität miteinander verglichen. Ein Vergleich beider Verfahren
+ist hierbei prinzipiell schwierig, da die LITT und RFA auf unterschiedlichen
+Technologien mit verschiedenen Energiequellen und –absorptionsraten beruhen. Es
+konnte jedoch gezeigt werden, dass in unserem experimentellen Ansatz mit der LITT
+größere Läsionsvolumina zu erzielen sind. Wesentlicher Vorteil der LITT gegenüber
+der RFA ist hierbei das Fehlen von Impedanzproblemen, zum Nachteil einer manuell
+aufwendigeren Punktion.
+Im Ergebnis konnten wir mit der in dieser Arbeit erfolgten experimentellen und
+klinischen Evaluation neuer Applikationsmodi und Planungsmöglichkeiten
+Lösungswege aufzeigen, die geeignet sind, den bisherigen Limitationen im Einsatz
+der LITT und RFA entgegen zu wirken. Durch die im Rahmen dieser Arbeit erfolgte
+Bestimmung der optischen Gewebeparameter von Lebermetastasen und deren
+kolorektalen Primärtumoren wurden die Grundlagen für die Entwicklung und erste
+Evaluation eines Dosimetrie-Modells für die LITT an der Leber geschaffen, wodurch
+es möglich ist, die Applikationsparameter für eine sichere und vollständige
+Tumorzellzerstörung prätherapeutisch zu ermitteln. Die Kombination der LITT mit
+einer Unterbrechung der Leberperfusion bietet darüber hinaus die Möglichkeit, den
+effektivitätshemmenden Kühleffekten der Leberdurchblutung zu reduzieren und somit
+die onkologische Effektivität zu verbessern. Durch die Untersuchungen zur
+Dosimetrie der LITT und RFA an der Lunge sowie der Schilddrüse wurden zudem
+wesentliche Grundlagen für eine klinische Ausweitung der In-situ-Ablationsverfahren
+auf weitere parenchymatöse Organe neben der Leber geschaffen. Es bedarf jedoch
+weiterer Untersuchungen, in denen insbesondere der Einfluss von Perfusion und
+Ventilation auf die In-situ-Ablationsverfahren während einer in-vivo-Anwendung
+evaluiert werden sollten.
+
+86
+
+6.
+
+Danksagung
+
+An dieser Stelle möchte ich mich bei den Menschen bedanken, die mir auf meinem
+akademischen Weg zur Seite gestanden haben und damit zum Gelingen dieser
+Habilitation beigetragen haben. Mein besonderer Dank gilt Herrn Prof. Dr. HeinzJohannes Buhr, der mich über all die Jahre unterstützt hat. Als mein Chef hat er mich
+chirurgisch geprägt und war für mich jederzeit ansprechbar. Bedanken möchte ich
+mich
+ebenfalls
+für
+seine
+stetige
+Diskussionsbereitschaft
+bei
+der
+Manuskriptbearbeitung. Herrn Prof. Dr. Martin Kreis danke ich herzlich für den sehr
+guten klinischen Einstieg und die Unterstützung der Habilitation.
+Mein herzlicher Dank gilt den Mitarbeitern der Arbeitsgruppe in-situ-Ablation.
+Besonders danken möchte ich hierbei Herrn Prof. Dr. Jörg-Peter Ritz, der die
+Arbeitsgruppe über viele Jahre geleitet und dieses Projekt geprägt hat. Als steter
+Ansporn hat er meine wissenschaftliche Arbeit erst ermöglicht und mit kritischer
+Aufmerksamkeit stets innovativ vorangetrieben. Bedanken möchte ich mich auch bei
+Herrn Dr. Kai Lehmann, der stets ein offenes Ohr für meine Fragen hatte und mich
+tatkräftig unterstützt hat.
+Des Weiteren geht mein Dank an die gesamte Klinik für Allgemein-, Viszeral- und
+Gefäßchirurgie der Charité, Campus Benjamin Franklin. Ohne die ärztlichen
+Mitarbeiter wäre eine solche Arbeit nicht zu bewerkstelligen. Auch allen Mitarbeitern
+unseres chirurgischen Forschungslabors sei ausdrücklich gedankt.
+Nicht zuletzt möchte ich mich bei meiner Familie bedanken. Meinen Eltern danke ich
+für die fortwährende Unterstützung. Von ganzem Herzen danke ich aber meiner Frau
+Simone sowie meinen Kindern Julian und Marie-Luise, ohne deren Rückhalt,
+liebevolle Unterstützung und verständnisvolle Geduld eine solche Arbeit nicht zu
+bewältigen wäre.
+
+97
+
+
+
+
+
